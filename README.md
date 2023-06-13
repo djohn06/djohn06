@@ -1,7 +1,8 @@
 ### Hello, world!👋 I'm Daniel John and welcome to my GitHub page!
 
 # 💫 About Me:
-I'm a recent graduate of a software development bootcamp from @makersacademy. Excited to start my journey as a Software Developer!
+The world of technology has propelled us to incredible heights, but I believe we have only scratched the surface of its immense potential. It excites me greatly of what the future holds – and I want to be a part of shaping it!
+Having previously worked in largely sales roles, the restrictions on creativity suffocated me. It led me to take a daring leap and enroll in a Software Development bootcamp where I really discovered my genuine passion for programming. Now, as I stand here today, I can declare with pride that I am a recent graduate of @makersacademy software development bootcamp, and from this day on can embrace the title of a Junior Software Developer!
 
 
 ## 🌐 Socials:
